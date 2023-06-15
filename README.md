@@ -13,3 +13,4 @@ Techniques used in this project-
   
   --> Data Generation using Time Forecasting and Data Synthesis
   
+  Model gives an accuracy of 91% based on the polluntants it's most dependent on. To achieve higher accuracy, train the model using all components. It the gives an accuracy of 99%
