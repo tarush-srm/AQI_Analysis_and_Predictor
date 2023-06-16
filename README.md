@@ -7,6 +7,8 @@ Techniques used in this project-
 
   --> Exploratory Data Analysis
   
+  --> Feature Scaling
+  
   --> Data Analysis using Random Forest Classifier and K Nearest Neighbors Classifier
   
   --> Data Visualization
